@@ -10,9 +10,19 @@ The dataset used for this research work is publicly available data composed of u
 
 ## Usage
 1. Clone or download the project repository to your local machine.
-2.  To download the code, visit the repository's page at https://github.com/TechNBusiness/Image-Classification/ and Click on the "Code" button and select "Download ZIP".
-3.  To clone the repository using git, open a terminal and navigate to the desired directory. Run the command "git clone https://github.com/TechNBusiness/Image-Classification" to create a local copy of the repository.
+2.  To download the code, visit the repository's page at https://github.com/TechNBusiness/AI-Support-Ticket-Routing/ and Click on the "Code" button and select "Download ZIP".
+3.  To clone the repository using git, open a terminal and navigate to the desired directory. Run the command "git clone https://github.com/TechNBusiness/AI-Support-Ticket-Routing" to create a local copy of the repository.
 4.  Open Jupyter Notebook and navigate to the project directory.
 5.  Open the .ipynb file containing the project code. You can also click the "Open in colab" at the top of the code.
 6.  Follow the instructions provided in the notebook to run the project and explore its outputs.
 7.  You can modify the code and experiment with different inputs to see the results.
+
+## Contributing
+Contributions to this project are welcome. If you encounter any issues, have suggestions, or want to contribute improvements, please follow these guidelines:
+
+Fork the repository and clone it to your local machine.
+Create a new branch for your contributions.
+Make your changes and test them thoroughly.
+Commit your changes and push them to your forked repository.
+Submit a pull request, describing the changes you have made.
+Please ensure that your contributions adhere to the project's coding conventions and style guidelines.
